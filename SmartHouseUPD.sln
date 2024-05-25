@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHouseUPD", "SmartHouseUPD.csproj", "{6E0763DD-D9BD-4C09-8D68-A4FB0C450AC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E0763DD-D9BD-4C09-8D68-A4FB0C450AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0763DD-D9BD-4C09-8D68-A4FB0C450AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E0763DD-D9BD-4C09-8D68-A4FB0C450AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E0763DD-D9BD-4C09-8D68-A4FB0C450AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2F44129-0CA8-4AB3-A22C-C4D595F127AB}
+	EndGlobalSection
+EndGlobal

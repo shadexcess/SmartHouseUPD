@@ -1,0 +1,14 @@
+F:\Labs\SmartHouseUPD\obj\Debug\SmartHouseUPD.csproj.AssemblyReference.cache
+F:\Labs\SmartHouseUPD\obj\Debug\SmartHouseUPD.csproj.CoreCompileInputs.cache
+F:\Labs\SmartHouseUPD\bin\Debug\SmartHouseUPD.exe.config
+F:\Labs\SmartHouseUPD\bin\Debug\SmartHouseUPD.exe
+F:\Labs\SmartHouseUPD\bin\Debug\SmartHouseUPD.pdb
+F:\Labs\SmartHouseUPD\obj\Debug\SmartHouseUPD.exe
+F:\Labs\SmartHouseUPD\obj\Debug\SmartHouseUPD.pdb
+D:\Labs\SmartHouseUPD\bin\Debug\SmartHouseUPD.exe.config
+D:\Labs\SmartHouseUPD\bin\Debug\SmartHouseUPD.exe
+D:\Labs\SmartHouseUPD\bin\Debug\SmartHouseUPD.pdb
+D:\Labs\SmartHouseUPD\obj\Debug\SmartHouseUPD.csproj.AssemblyReference.cache
+D:\Labs\SmartHouseUPD\obj\Debug\SmartHouseUPD.csproj.CoreCompileInputs.cache
+D:\Labs\SmartHouseUPD\obj\Debug\SmartHouseUPD.exe
+D:\Labs\SmartHouseUPD\obj\Debug\SmartHouseUPD.pdb

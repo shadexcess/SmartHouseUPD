@@ -1,0 +1,5 @@
+ Show products in the fridge.
+ Check if the product is in the fridge.
+ Put product into the fridge.
+ Take product from the fridge.
+ Suggest some recipes based on products in the fridge.
